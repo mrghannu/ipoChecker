@@ -34,7 +34,7 @@ for i in range(num):
         print("Enter valid Boid Number")
     except KeyboardInterrupt:
         print("\nExiting..........")
-        break
+        
         
 
   
